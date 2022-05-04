@@ -2,10 +2,13 @@
 # Write a function called display_message() that prints one sentence telling everyone
 # what you are learning about in class. Call the function, and make sure the message
 # displays correctly.
-
+function="display_message(ur mom)"
 # EXERCISE 2A
 # Make a list containing a series of short text messages. Pass the list to a function
 # called show_messages(), which prints each text message.
+
+thislist = ["ur mom", "banana", "Cut my life into peices, this is my last resort"]
+print(thislist)
 
 # EXERCISE 2B
 # Start with a copy of your program from Exercise 2A. Write a function called
