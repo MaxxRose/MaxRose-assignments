@@ -8,13 +8,19 @@ function="display_message(ur mom)"
 # called show_messages(), which prints each text message.
 
 thislist = ["ur mom", "banana", "Cut my life into peices, this is my last resort"]
-print(thislist)
+pass ;thislist (show messages)
+    print=show_messages
+
 
 # EXERCISE 2B
 # Start with a copy of your program from Exercise 2A. Write a function called
 # send_messages() that prints each text message and moves each message to a new list
 # called sent_messages as it’s printed. After calling the function, print both of your
 # lists to make sure the messages were moved correctly.
+thislist = ["ur mom", "banana", "Cut my life into peices, this is my last resort"]
+pass ;thislist (show messages)
+    print=show_messages
+
 
 # EXERCISE 2C
 # Start with your work from Exercise 2B. Call the function send_messages() with a copy
